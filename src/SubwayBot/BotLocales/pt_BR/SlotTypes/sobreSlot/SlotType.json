@@ -1,0 +1,1 @@
+{"name":"sobreSlot","identifier":"L2H35TLLMT","description":null,"slotTypeValues":[{"synonyms":[{"value":"empresa"}],"sampleValue":{"value":"empresa"}},{"synonyms":[{"value":"cardapio"}],"sampleValue":{"value":"cardapio"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}

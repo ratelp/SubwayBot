@@ -1,0 +1,1 @@
+{"name":"queijo","identifier":"DTK8LJUOIV","description":null,"slotTypeValues":[{"synonyms":[{"value":"Cheddar"}],"sampleValue":{"value":"Cheddar"}},{"synonyms":[{"value":"Mussarela"}],"sampleValue":{"value":"Mussarela"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
